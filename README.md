@@ -1,7 +1,7 @@
 # GoogleEmergentHackathon
 # Research Accessibility and Bias Generator
 
-**LINK TO WEBSITE:** https://biasdetector.preview.emergentagent.com/
+**LINK TO WEBSITE:** https://paper-analyzer-1.preview.emergentagent.com/
 
 ## Overview
 
