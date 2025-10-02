@@ -1,7 +1,7 @@
 # GoogleEmergentHackathon
 # Research Accessibility and Bias Generator
 
-**Repository:** [https://github.com/aayushi01shah/GoogleEmergentHackathon](https://github.com/aayushi01shah/GoogleEmergentHackathon)
+**LINK TO WEBSITE:** https://biasdetector.preview.emergentagent.com/
 
 ## Overview
 
